@@ -1,7 +1,7 @@
 {
  "manifest_version": 3,
  "name": "Free Ai Services",
- "version": "16.5.7",
+ "version": "16.5.8",
  "permissions": [
     "activeTab",
     "tabs",
